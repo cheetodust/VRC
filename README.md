@@ -1,5 +1,7 @@
 ### Vinesauce ROM Corruptor for Mac
 
+Port by cheetodust
+
 Original readme below
 
 ---
