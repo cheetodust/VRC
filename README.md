@@ -1,3 +1,9 @@
+### Vinesauce ROM Corruptor for Mac
+
+Original readme below
+
+---
+
 The Vinesauce ROM Corruptor is a program that allows you to change the bytes of any file by tweaking some simple settings.
 It's development thus far has been biased toward corrupting NES ROM files for that glitchy fun effect, but since it works on any file it can be used to corrupt any kind of ROM or game data file.
 
@@ -11,4 +17,4 @@ Others who have used the program to create entertaining results include [PewDieP
 
 [Download Previous Release](http://github.com/Rikerz/VRC/raw/master/bin/Vinesauce%20ROM%20Corruptor%20v1.2.1.zip)
 
-[My Website](http://corruptedbytes.com)
+[My Website](http://corruptedbytes.com
