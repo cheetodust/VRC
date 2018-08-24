@@ -17,4 +17,4 @@ Others who have used the program to create entertaining results include [PewDieP
 
 [Download Previous Release](http://github.com/Rikerz/VRC/raw/master/bin/Vinesauce%20ROM%20Corruptor%20v1.2.1.zip)
 
-[My Website](http://corruptedbytes.com
+[My Website](http://corruptedbytes.com)
