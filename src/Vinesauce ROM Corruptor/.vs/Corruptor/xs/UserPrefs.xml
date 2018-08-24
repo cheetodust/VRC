@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.ItemProperties.Corruptor PreferredExecutionTarget="Test1" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ViewController.cs">
     <Files>
-      <File FileName="ViewController.cs" Line="37" Column="44" />
+      <File FileName="ViewController.cs" Line="772" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
