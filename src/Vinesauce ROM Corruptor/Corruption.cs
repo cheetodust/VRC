@@ -22,9 +22,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Windows.Forms;
-
-namespace Vinesauce_ROM_Corruptor
+using AppKit;
+using Foundation;
+namespace Corruptor
 {
     static class Corruption
     {
@@ -65,7 +65,8 @@ namespace Vinesauce_ROM_Corruptor
                 // Make sure they have equal length.
                 if (TextToReplace.Length != ReplaceWith.Length)
                 {
-                    MessageBox.Show("Number of text sections to replace does not match number of replacements.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    new NSAlert { MessageText = "Error", InformativeText = "Number of text sections to replace does not match number of replacements.", AlertStyle = NSAlertStyle.Warning }.RunModal();
+                    //MessageBox.Show("Number of text sections to replace does not match number of replacements.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return null;
                 }
 
@@ -310,7 +311,8 @@ namespace Vinesauce_ROM_Corruptor
                 // Make sure they have equal length.
                 if (ColorsToReplace.Length != ColorsReplaceWith.Length)
                 {
-                    MessageBox.Show("Number of colors to replace does not match number of replacements.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    new NSAlert { MessageText = "Error", InformativeText = "Number of colors to replace does not match number of replacements.", AlertStyle = NSAlertStyle.Warning }.RunModal();
+                    //MessageBox.Show("Number of colors to replace does not match number of replacements.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return null;
                 }
 
@@ -326,7 +328,8 @@ namespace Vinesauce_ROM_Corruptor
                     }
                     catch
                     {
-                        MessageBox.Show("Invalid color to replace.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        new NSAlert { MessageText = "Error", InformativeText = "Invalid color to replace", AlertStyle = NSAlertStyle.Warning }.RunModal();
+                        //MessageBox.Show("Invalid color to replace.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return null;
                     }
                 }
@@ -339,7 +342,8 @@ namespace Vinesauce_ROM_Corruptor
                     }
                     catch
                     {
-                        MessageBox.Show("Invalid color replacement.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        new NSAlert { MessageText = "Error", InformativeText = "Invalid color replacement.", AlertStyle = NSAlertStyle.Warning }.RunModal();
+                        //MessageBox.Show("Invalid color replacement.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return null;
                     }
                 }

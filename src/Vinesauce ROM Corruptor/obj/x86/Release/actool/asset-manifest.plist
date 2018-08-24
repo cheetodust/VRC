@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-128.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-128@2x.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-16.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-16@2x.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-256.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-256@2x.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-32.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-32@2x.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-512.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][AppIcon-512@2x.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The app icon set "AppIcon" has 10 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][16x16][][][1x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "VineshroomIcon copy-9.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][512x512][][][1x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "VineshroomIcon copy-1.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][512x512][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "VineshroomIcon copy.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][32x32][][][1x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "VineshroomIcon copy-7.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][256x256][][][1x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "VineshroomIcon copy-3.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][128x128][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "VineshroomIcon copy-4.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][16x16][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "VineshroomIcon copy-8.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][32x32][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "VineshroomIcon copy-6.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][128x128][][][1x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "VineshroomIcon copy-5.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/[][mac][256x256][][][2x][][]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The file "VineshroomIcon copy-2.png" for the image set "AppIcon" does not exist.</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon.appiconset/(null)[2d][VineshroomIcon copy-1.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][VineshroomIcon copy-2.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][VineshroomIcon copy-3.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][VineshroomIcon copy-4.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][VineshroomIcon copy-5.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][VineshroomIcon copy-6.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][VineshroomIcon copy-7.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][VineshroomIcon copy-8.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][VineshroomIcon copy-9.png]</string>
+				<string>./AppIcon.appiconset/(null)[2d][VineshroomIcon copy.png]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Release/actool/cloned-assets/Resources/Assets.xcassets</string>
+			<key>message</key>
+			<string>The app icon set "AppIcon" has 10 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D94F4990-EB6D-4C76-83AF-068B6D3F58E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Corruptor PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Corruptor/ViewController.cs">
+    <Files>
+      <File FileName="Corruptor/AppDelegate.cs" Line="21" Column="10" />
+      <File FileName="Corruptor/Main.cs" Line="10" Column="1" />
+      <File FileName="Corruptor/ViewController.cs" Line="376" Column="46" />
+      <File FileName="Corruptor/RomDirDataSource.cs" Line="15" Column="1" />
+      <File FileName="Corruptor/RomDirDelegate.cs" Line="39" Column="6" />
+      <File FileName="Corruptor/ViewController.designer.cs" Line="254" Column="1" />
+      <File FileName="Corruptor/Corruption.cs" Line="27" Column="20" />
+      <File FileName="Corruptor/RomId.cs" Line="39" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

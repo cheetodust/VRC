@@ -1,0 +1,12 @@
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/bin/Debug/Corruptor.exe
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/bin/Debug/Corruptor.pdb
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Debug/actool/partial-info.plist
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Debug/actool/asset-manifest.plist
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Debug/Corruptor.csproj.CoreCompileInputs.cache
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Debug/Corruptor.exe
+/Users/Theo/Projects/VRC/src/Vinesauce ROM Corruptor/obj/x86/Debug/Corruptor.pdb

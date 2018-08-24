@@ -24,11 +24,10 @@ using System.IO;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
-using System.Windows.Forms;
 
-namespace Vinesauce_ROM_Corruptor
+namespace Corruptor
 {
-    class RomId
+    public class RomId
     {
         static SHA256 SHA = SHA256Managed.Create();
 
@@ -54,12 +53,12 @@ namespace Vinesauce_ROM_Corruptor
             }
         }
 
-        public ListViewItem GetListViewItem()
-        {
-            ListViewItem item = new ListViewItem(new string[] { FileName });
-            item.Tag = this;
-            return item;
-        }
+        //public ListViewItem GetListViewItem()
+        //{
+        //    ListViewItem item = new ListViewItem(new string[] { FileName });
+        //    item.Tag = this;
+        //    return item;
+        //}
 
         public byte[] Load()
         {
